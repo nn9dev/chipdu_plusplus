@@ -8,9 +8,11 @@ The code is not very organized and likely not the most efficient in some places,
 In order to make up for lack of uniqueness, I've kept a lot of my comments in, explaining basic concepts of things like the opcodes, variables, purposes of certain functions, and otherwise verbose teachings and grievances.
 I hope that they'll be useful in breaking down and explaining things to anyone who wishes to explore this kind of thing in the future.
 
+<!---
 ### Downloads
 Unlike (most) other CHIP-8 emulators, I plan to attempt to make builds available for all 3 big OSes, though sourcing a Mac may prove difficult. 
 You'll be able to find them under the [Releases page](https://github.com/nn9dev/chipdu_plusplus/releases) when they're out.
+--->
 
 ## Usage
 - Double click, run through your command line of choice, whatever you wanna do.  
